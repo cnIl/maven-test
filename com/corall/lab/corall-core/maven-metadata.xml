@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.corall.lab</groupId>
-  <artifactId>corall-base</artifactId>
+  <artifactId>corall-core</artifactId>
   <versioning>
     <latest>14.0.5</latest>
     <release>14.0.5</release>
     <versions>
       <version>14.0.5</version>
-      <version>14.0.6</version>
     </versions>
-    <lastUpdated>20220715044923</lastUpdated>
+    <lastUpdated>20220715045103</lastUpdated>
   </versioning>
 </metadata>
